@@ -300,7 +300,6 @@ Full-Width Styles
 #project_title {
   margin: 0;
   color: #fff;
-  font-family: 'androidandroid';
   font-size: 42px;
   font-weight: 700;
   text-shadow: #111 0px 0px 10px;
@@ -308,7 +307,6 @@ Full-Width Styles
 
 #project_tagline {
   color: #fff;
-  font-family: 'androidandroid';
   font-size: 24px;
   font-weight: 300;
   background: none;
